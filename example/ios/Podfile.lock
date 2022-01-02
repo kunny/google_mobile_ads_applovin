@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - google_mobile_ads_applovin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - google_mobile_ads_applovin (from `.symlinks/plugins/google_mobile_ads_applovin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  google_mobile_ads_applovin:
+    :path: ".symlinks/plugins/google_mobile_ads_applovin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  google_mobile_ads_applovin: 8136216027d126de66122159e8a4020bda53a226
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.11.2

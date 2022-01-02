@@ -1,0 +1,26 @@
+name: google_mobile_ads_applovin
+description: Google Mobile Ads mediation plugin for AppLovin.
+version: 5.1.2
+homepage: https://github.com/kunny/google_mobile_ads_applovin
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.androidhuman.plugins.google_mobile_ads_applovin
+        pluginClass: GoogleMobileAdsApplovinPlugin
+      ios:
+        pluginClass: AHMGoogleMobileAdsApplovinPlugin
