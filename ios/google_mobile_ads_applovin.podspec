@@ -16,7 +16,7 @@ Google Mobile Ads mediation plugin for Applovin.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationAppLovin', '11.2.1.0'
+  s.dependency 'GoogleMobileAdsMediationAppLovin', '11.3.1.0'
   s.ios.deployment_target = '9.0'
   s.static_framework = true
 
