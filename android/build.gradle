@@ -22,6 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.androidhuman.plugins.google_mobile_ads_applovin'
     compileSdkVersion 30
 
     compileOptions {
@@ -34,6 +35,6 @@ android {
     }
 
     dependencies {
-        implementation 'com.google.ads.mediation:applovin:11.3.1.0'
+        implementation 'com.google.ads.mediation:applovin:11.10.1.0'
     }
 }
