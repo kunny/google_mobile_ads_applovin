@@ -8,7 +8,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.1.0'
+        classpath 'com.android.tools.build:gradle:7.1.3'
     }
 }
 
@@ -23,7 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     namespace 'com.androidhuman.plugins.google_mobile_ads_applovin'
-    compileSdkVersion 30
+    compileSdkVersion 33
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -35,6 +35,6 @@ android {
     }
 
     dependencies {
-        implementation 'com.google.ads.mediation:applovin:11.10.1.0'
+        implementation 'com.google.ads.mediation:applovin:11.11.2.0'
     }
 }
