@@ -35,6 +35,6 @@ android {
     }
 
     dependencies {
-        implementation 'com.google.ads.mediation:applovin:11.11.3.0'
+        implementation 'com.google.ads.mediation:applovin:12.1.0.0'
     }
 }

@@ -1,3 +1,8 @@
+## Version 7.0.0
+
+* Supports [Applovin Android adapter version 12.1.0.0](https://github.com/googleads/googleads-mobile-android-mediation/blob/main/ThirdPartyAdapters/applovin/CHANGELOG.md#version-12100).
+* Supports [Applovin iOS adapter version 12.1.0.0](https://github.com/googleads/googleads-mobile-ios-mediation/blob/main/adapters/AppLovin/CHANGELOG.md#version-12100).
+
 ## Version 6.9.1
 
 * Supports [Applovin Android adapter version 11.11.3.0](https://github.com/googleads/googleads-mobile-android-mediation/blob/main/ThirdPartyAdapters/applovin/CHANGELOG.md#version-111130).

@@ -1,6 +1,6 @@
 name: google_mobile_ads_applovin
 description: Google Mobile Ads mediation plugin for AppLovin.
-version: 6.9.1
+version: 7.0.0
 homepage: https://github.com/kunny/google_mobile_ads_applovin
 
 environment:
